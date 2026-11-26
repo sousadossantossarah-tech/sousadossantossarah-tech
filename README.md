@@ -21,7 +21,19 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb&height=3&section=header" width="100%" alt="divisor"/>
 
 ## 🌸 Índice
+Sobre mim
 
+Oi, eu sou a Sarah.
+
+Gosto de cuidar de mim, do meu corpo, da minha mente e da minha rotina, porque acredito que tudo começa por aí. Também adoro descobrir coisas novas: lugares, assuntos, sabores, ideias. Estou sempre com alguma curiosidade nova na cabeça.
+
+Uso o GitHub para aprender, organizar o que estou construindo e acompanhar minha evolução, sem pressa e no meu ritmo.
+
+Moro em Maracanaú, Ceará
+Atualmente estou estudando lógica de programação
+Gosto de [hobbies: ler, cozinhar, viajar, música...]
+Meu momento favorito do dia é [manhã, noite, fim de tarde...]
+Pode me perguntar sobre maquiagem
 <details>
 <summary><b>💗 Clique para abrir o índice</b></summary>
 <br/>
