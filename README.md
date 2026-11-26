@@ -1,11 +1,11 @@
 <!-- Banner animado rosa -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Nome%20do%20Projeto&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Uma%20breve%20descri%C3%A7%C3%A3o%20do%20projeto&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner do projeto" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Sarah%20 %20Sousa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Uma%20breve%20descri%C3%A7%C3%A3o%20do%20projeto&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner do perfil" width="100%"/>
 
 <!-- Texto digitando -->
 <a href="https://github.com/seu-usuario/nome-do-projeto">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+projeto+%F0%9F%8C%B8;Feito+com+carinho+e+c%C3%B3digo+%F0%9F%92%97;Contribui%C3%A7%C3%B5es+s%C3%A3o+bem-vindas+%E2%9C%A8" alt="Texto animado" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=Bem-vindo(a)+ao+meu+perfil+%F0%9F%8C%B8;Feito+com+carinho+e+c%C3%B3digo+%F0%9F%92%97;Contribui%C3%A7%C3%B5es+s%C3%A3o+bem-vindas+%E2%9C%A8" alt="Texto animado" />
 </a>
 
 <br/><br/>
