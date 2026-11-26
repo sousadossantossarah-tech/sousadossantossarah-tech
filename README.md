@@ -1,7 +1,7 @@
 <!-- Banner animado rosa -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Sarah%20%20Sousa&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Uma%20breve%20descri%C3%A7%C3%A3o%20do%20projeto&descSize=18&descAlignY=58&animation=fadeIn" alt="Banner do perfil" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=220&section=header&text=Sarah%20%20Sousa&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Banner do perfil" width="100%"/>
 
 <!-- Texto digitando -->
 <a href="https://github.com/seu-usuario/nome-do-projeto">
