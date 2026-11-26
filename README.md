@@ -22,7 +22,25 @@
 
 ## 🌸 Índice
 Sobre mim
+💗 Olá! Eu sou a Sarah!
+👩🏻‍💻 Sobre mim
+🎂 Tenho 15 anos
+🎓 Estudante de Técnico em Tecnologia da Informação
+💻 Apaixonada pelo mundo da tecnologia
+📚 Sempre buscando aprender coisas novas
+🚀 Construindo meu futuro na área da tecnologia
+🎯 Meus objetivos
+Aprimorar minhas habilidades.
+Desenvolver novos conhecimentos.
+Aprender cada vez mais sobre tecnologia.
+Construir minha carreira profissional na área de TI.
+💌 Um pouco sobre mim
 
+Estou no início da minha caminhada na tecnologia e acredito que cada aprendizado é uma oportunidade de evoluir e conquistar novos objetivos.
+
+Obrigada por visitar meu perfil! 💗
+
+⭐ Aprendendo hoje, construindo o futuro!
 
 
 
