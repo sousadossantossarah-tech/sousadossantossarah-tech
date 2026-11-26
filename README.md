@@ -30,9 +30,13 @@ Tenho 15 anos, estudante de Técnico em Tecnologia da Informação, apaixonada p
 
 🎯 Meus objetivos
 Aprimorar minhas habilidades.
+
 Desenvolver novos conhecimentos.
+
 Aprender cada vez mais sobre tecnologia.
+
 Construir minha carreira profissional na área de TI.
+
 💌 Um pouco sobre mim
 
 Estou no início da minha caminhada na tecnologia e acredito que cada aprendizado é uma oportunidade de evoluir e conquistar novos objetivos.
