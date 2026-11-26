@@ -52,12 +52,7 @@ Pode me perguntar sobre maquiagem
 
 > 💡 Troque os badges acima pelas tecnologias que você realmente usa.
 
-## ✅ Pré-requisitos
 
-Antes de começar, você vai precisar de:
-
-- 🌸 [Git](https://git-scm.com/)
-- 🌸 [Node.js](https://nodejs.org/) (ou a linguagem/ferramenta do seu projeto)
 
 ## 📦 Instalação
 
@@ -72,20 +67,7 @@ cd nome-do-projeto
 npm install
 ```
 
-## ▶️ Como usar
 
-```bash
-# Execute o projeto
-npm start
-```
-
-Depois, acesse `http://localhost:3000` no navegador. 🌸
-
-<details>
-<summary><b>🎀 Ver exemplo de código</b></summary>
-<br/>
-
-```js
 // Mostre aqui um pequeno exemplo de uso
 console.log("Olá, mundo! 💗");
 ```
