@@ -34,20 +34,7 @@ Atualmente estou estudando lógica de programação
 Gosto de [hobbies: ler, cozinhar, viajar, música...]
 Meu momento favorito do dia é [manhã, noite, fim de tarde...]
 Pode me perguntar sobre maquiagem
-<details>
 
-- [Sobre](#-sobre)
-- [Funcionalidades](#-funcionalidades)
-- [Tecnologias](#-tecnologias)
-- [Pré-requisitos](#-pré-requisitos)
-- [Instalação](#-instalação)
-- [Como usar](#-como-usar)
-- [Estrutura do projeto](#-estrutura-do-projeto)
-- [Contribuindo](#-contribuindo)
-- [Licença](#-licença)
-- [Autor](#-autor)
-
-</details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb&height=3&section=header" width="100%" alt="divisor"/>
 
