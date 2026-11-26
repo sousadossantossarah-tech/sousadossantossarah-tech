@@ -38,21 +38,6 @@ Pode me perguntar sobre maquiagem
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb&height=3&section=header" width="100%" alt="divisor"/>
 
-## 💖 Sobre
-
-> 🌷 *Explique aqui, em poucas linhas, o que é o projeto e por que ele existe.*
-
-- 🎀 O que é o projeto
-- 🎀 Por que ele foi criado
-- 🎀 Para quem ele é útil
-
-## ✨ Funcionalidades
-
-| Funcionalidade | Status |
-| :--- | :---: |
-| 🌸 Funcionalidade 1 | ✅ |
-| 🌸 Funcionalidade 2 | ✅ |
-| 🌸 Funcionalidade 3 | 🚧 Em breve |
 
 ## 🛠 Tecnologias
 
