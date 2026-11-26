@@ -26,11 +26,7 @@ Sobre mim
 
 👩🏻‍💻 Sobre mim
 
-🎂 Tenho 15 anos
-🎓 Estudante de Técnico em Tecnologia da Informação
-💻 Apaixonada pelo mundo da tecnologia
-📚 Sempre buscando aprender coisas novas
-🚀 Construindo meu futuro na área da tecnologia
+Tenho 15 anos, estudante de Técnico em Tecnologia da Informação, apaixonada pelo mundo da tecnologia, sempre buscando aprender coisas novas, construindo meu futuro na área da tecnologia.
 
 🎯 Meus objetivos
 Aprimorar minhas habilidades.
