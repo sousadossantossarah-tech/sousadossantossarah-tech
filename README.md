@@ -35,8 +35,6 @@ Gosto de [hobbies: ler, cozinhar, viajar, música...]
 Meu momento favorito do dia é [manhã, noite, fim de tarde...]
 Pode me perguntar sobre maquiagem
 <details>
-<summary><b>💗 Clique para abrir o índice</b></summary>
-<br/>
 
 - [Sobre](#-sobre)
 - [Funcionalidades](#-funcionalidades)
