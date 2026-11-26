@@ -39,33 +39,9 @@ Pode me perguntar sobre maquiagem
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb&height=3&section=header" width="100%" alt="divisor"/>
 
 
-## 🛠 Tecnologias
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/HTML5-ff69b4?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-ff1493?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Node.js-db7093?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-
-</div>
-
-> 💡 Troque os badges acima pelas tecnologias que você realmente usa.
 
 
 
-## 📦 Instalação
-
-```bash
-# 💗 Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git
-
-# 💗 Acesse a pasta do projeto
-cd nome-do-projeto
-
-# 💗 Instale as dependências
-npm install
-```
 
 
 // Mostre aqui um pequeno exemplo de uso
