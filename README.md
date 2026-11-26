@@ -21,7 +21,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffc0cb&height=3&section=header" width="100%" alt="divisor"/>
 
 ## 🌸 Índice
-Sobre mim
+
 💗 Olá! Eu sou a Sarah!
 
 👩🏻‍💻 Sobre mim
